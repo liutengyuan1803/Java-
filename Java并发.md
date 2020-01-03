@@ -84,4 +84,5 @@ hotSpot虚拟机的对象头(Object Header)分为两部分信息，第一部分�
 
 偏向锁、轻量级锁的状态转化及对象Mark Word的关系
 
-https://github.com/liutengyuan1803/lean_repo/blob/master/images/1.jpg
+
+![image](https://github.com/liutengyuan1803/lean_repo/blob/master/images/1.jpg)
